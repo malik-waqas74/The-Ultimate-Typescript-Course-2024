@@ -251,3 +251,4 @@ interface User {
     userId: number; 
     username: string;}
 // It returns the Union of the properties userid | username
+console.log("Created By Malik Waqas");

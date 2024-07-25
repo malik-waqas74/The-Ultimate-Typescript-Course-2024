@@ -128,4 +128,10 @@ function printName(obj) {
     console.log(obj.name);
 }
 printName({ name: "printer" });
+class Id_Accepter {
+    constructor(id) {
+        this.id = id;
+    }
+}
+console.log("Created By Malik Waqas");
 //# sourceMappingURL=generics.js.map
